@@ -1,0 +1,6 @@
+bit_manipulation.c
+setup.py
+bitbox.egg-info/PKG-INFO
+bitbox.egg-info/SOURCES.txt
+bitbox.egg-info/dependency_links.txt
+bitbox.egg-info/top_level.txt
